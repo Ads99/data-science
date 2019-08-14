@@ -1,0 +1,1 @@
+To activate the Plotly environment use: "activate plotly" within this directory
